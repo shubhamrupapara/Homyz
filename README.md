@@ -20,6 +20,8 @@ Homyz is a modern real estate website with a user-friendly interface that is dri
 - ReactJS
 - Redux
 
+## Project layout structure
+
 ## To run locally on your machine
 
 ### Clone the repo to your machine
@@ -39,3 +41,5 @@ npm install
 ```
 # Run frontend
 npm run dev
+
+

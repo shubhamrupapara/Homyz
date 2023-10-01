@@ -19,30 +19,14 @@ Homyz is a modern real estate website with a user-friendly interface that is dri
 - CSS
 - ReactJS
 - Redux
+- NodeJS
+- MongoDB
 
 ## Project layout structure
 
 <img src="Real_Estate.gif" alt="Glimpse" width="70%" height="40%">
 
 
-## To run locally on your machine
 
-### Clone the repo to your machine
-
-```
-git clone https://github.com/shubhamrupapara/Homyz.git
-```
-
-### Install Dependencies
-
-```
-npm install
-```
-
-# Running the application
-
-```
-# Run frontend
-npm run dev
 
 

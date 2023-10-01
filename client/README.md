@@ -22,6 +22,9 @@ Homyz is a modern real estate website with a user-friendly interface that is dri
 
 ## Project layout structure
 
+<img src="Real_Estate.gif" alt="Glimpse" width="70%" height="40%">
+
+
 ## To run locally on your machine
 
 ### Clone the repo to your machine
